@@ -2,4 +2,6 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-**Marcel Romani**, Git lover
+
+**Marcel Romani**, Git & Larry Plotter Lover
+
